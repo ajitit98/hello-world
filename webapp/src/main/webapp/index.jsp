@@ -9,5 +9,5 @@
     <br>
     <label for="password">password: </label>
     <input type="password" name="password"  required>
-    <input type="VALIDATE" value="wel-come!">
+    <input type="VALIDATE" value="WELCOME ALL!">
 </form>
