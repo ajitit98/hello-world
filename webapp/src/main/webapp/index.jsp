@@ -1,12 +1,12 @@
 
 <form>
-    <label for="firstname">First name: </label>
+    <label for="FIRST Name">First name: </label>
     <input type="text" name="firstname"  required>
     <br>
-    <label for="lastname">Last name: </label>
+    <label for="LAST NAME">Last name: </label>
     <input type="text" name="lastname"  required>
     <br>
-    <label for="email">email: </label>
+    <label for="EMAIL">email: </label>
     <input type="email" name="email"  required>
     <br>
     <label for="password">password: </label>
