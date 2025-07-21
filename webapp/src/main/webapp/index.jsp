@@ -9,5 +9,5 @@
     <br>
     <label for="password">password: </label>
     <input type="password" name="password"  required>
-    <input type="VALIDATE" value="WELCOME ALL!">
+    <input type="VALIDATE" value="WELCOME TO CONTAINER USING JENKINS!">
 </form>
